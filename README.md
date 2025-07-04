@@ -20,4 +20,4 @@ My first Python project - a customizable soundboard application that plays sound
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/levannahonline/Meme-Soundboard--SIMPLE-/
+   git clone https://github.com/levannahonline/Meme-Soundboard--SIMPLE-.git
