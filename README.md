@@ -2,7 +2,7 @@
 
 My first Python project - a customizable soundboard application that plays sound effects with button clicks!
 
-![Soundboard Screenshot](![image](https://github.com/user-attachments/assets/7f63cd3e-8e6c-4fc7-81dd-46f15726533e)
+![Screenshot 2025-07-04 161615](https://github.com/user-attachments/assets/10dbcc28-3e21-40c2-8096-2fb2641454c0)
 ) 
 
 ## Features
